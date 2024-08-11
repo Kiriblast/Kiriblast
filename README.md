@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kiriblast
-- 👀 I’m interested in computer sciences
-- 🌱 I’m currently first year undergrad student
+
 
 
 <!---
